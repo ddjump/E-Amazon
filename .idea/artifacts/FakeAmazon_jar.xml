@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FakeAmazon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FakeAmazon_jar</output-path>
+    <root id="archive" name="FakeAmazon.jar">
+      <element id="module-output" name="FakeAmazon" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
